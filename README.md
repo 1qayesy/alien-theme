@@ -14,6 +14,7 @@ Alien Theme replaces Chess.com’s Green preset with an alien chessboard and pie
 3. If you’re switching editions, open the Tampermonkey dashboard and disable the other Alien script.
 4. Refresh Chess.com. Open **Settings → Board & Pieces → Presets**.
 5. Select **Alien** for the full edition or **Alien Lite** for the lightweight edition, then click **Save**.
+(Tutorial: https://www.youtube.com/watch?v=9KyiWIk3lHc)
 
 ![Alien Theme preview](./Alien-Theme-Thumbnail.png)
 
